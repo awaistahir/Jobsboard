@@ -1,6 +1,6 @@
 # Job Borard
 
-Rails Example APP to consider for practice .
+Rails Example APP to consider for practice
 
 # Ruby version
 
