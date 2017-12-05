@@ -1,4 +1,4 @@
-# Job Borard
+# Job Board
 
 Rails Example APP to consider for practice .
 
